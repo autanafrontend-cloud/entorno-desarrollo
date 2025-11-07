@@ -7,4 +7,5 @@
 - Live preview
 - Prettier - Code Formatter
 - Auto Auto Readme Tag
-- Material icon Theme
+- Material icon Theme.
+- otras
